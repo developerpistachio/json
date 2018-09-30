@@ -1,0 +1,171 @@
+{
+  "Collections": [
+    {
+      "name": "Unsplash",
+      "preview_url": "https://github.com/developerpistachio/unsplash/raw/master/clouds01.jpg",
+      "preview_thumbnail_url": "https://github.com/developerpistachio/unsplash-thumb/raw/master/clouds01.jpg"
+    }
+  ],
+"Wallpapers": [
+   {
+      "name": "Clouds01",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/clouds01.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/clouds01.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+     {
+      "name": "Clouds02",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/clouds02.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/clouds02.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+     {
+      "name": "Clouds03",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/clouds03.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/clouds03.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+    {
+      "name": "Clouds04",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/clouds04.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/clouds04.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Clouds05",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/clouds05.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/clouds05.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Flowers01",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/flowers01.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/flowers01.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Flowers02",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/flowers02.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/flowers02.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Flowers03",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/flowers03.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/flowers03.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Landscape01",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/landscape01.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/landscape01.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Landscape02",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/landscape02.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/landscape02.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Landscape03",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/landscape03.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/landscape03.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Landscape04",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/landscape04.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/landscape04.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Miscellaneous01",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/miscellaneous01.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/miscellaneous01.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Miscellaneous02",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/miscellaneous02.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/miscellaneous02.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Mist01",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/mist01.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/mist01.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Mist02",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/mist02.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/mist02.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Sunset01",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/sunset01.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/sunset01.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Sunset02",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/sunset02.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/sunset02.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Sunset03",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/sunset03.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/sunset03.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    },
+{
+      "name": "Sunset04",
+      "author": "Unsplash",
+      "url": "https://github.com/developerpistachio/unsplash/raw/master/sunset04.jpg",
+      "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/sunset04.jpg",
+      "collections": "Unsplash"
+      "downloadable": true,
+    }
+  ]
+}
