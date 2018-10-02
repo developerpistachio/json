@@ -4,6 +4,11 @@
       "name": "Unsplash",
       "preview_url": "https://github.com/developerpistachio/unsplash/raw/master/clouds01.jpg",
       "preview_thumbnail_url": "https://github.com/developerpistachio/unsplash-thumb/raw/master/clouds01.jpg"
+    },
+    {
+      "name": "Stock Wallpapers",
+      "preview_url": "https://github.com/developerpistachio/stockwallpapers/raw/master/iphone_8.jpg",
+      "preview_thumbnail_url": "https://github.com/developerpistachio/stockthumbs/raw/master/iphone_8.jpg"
     }
   ],
 "Wallpapers": [
@@ -165,6 +170,126 @@
       "url": "https://github.com/developerpistachio/unsplash/raw/master/sunset04.jpg",
       "thumbnail": "https://github.com/developerpistachio/unsplash-thumb/raw/master/sunset04.jpg",
       "collections": "Unsplash",
+      "downloadable": true
+    },
+ {
+      "name": "Essential_phone",
+      "author": "Essential Phone",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/essential_phone.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/essential_phone.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Flyme_os",
+      "author": "Flyme",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/flyme_os.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/flyme_os.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Galaxy_s8",
+      "author": "Samsung",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/galaxy_s8.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/galaxy_s8.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Iphone_8",
+      "author": "Apple",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/iphone_8.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/iphone_8.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Iphone_x",
+      "author": "Apple",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/iphone_x.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/iphone_x.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Iphone_xs_max",
+      "author": "Apple",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/iphone_xs_max.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/iphone_xs_max.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Lg_x_venture",
+      "author": "Lg",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/lg_x_venture.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/lg_x_venture.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Lineage_os",
+      "author": "Lineage",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/lineage_os.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/lineage_os.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Nokia_7",
+      "author": "Nokia",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/nokia_7.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/nokia_7.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Nokia_x6_01",
+      "author": "Nokia",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/nokia_x6_01.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/nokia_x6_01.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Nokia_x6_02",
+      "author": "Nokia",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/nokia_x6_02.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/nokia_x6_02.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Note_9",
+      "author": "Samsung",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/note_9.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/note_9.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Oneplus_5t_01",
+      "author": "Oneplus",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/oneplus_5t_01.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/oneplus_5t_01.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Oneplus_5t_02",
+      "author": "Oneplus",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/oneplus_5t_02.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/oneplus_5t_02.jpg",
+      "collections": "Stock Wallpapers",
+      "downloadable": true
+    },
+{
+      "name": "Redmi_5_plus",
+      "author": "Xiaomi",
+      "url": "https://github.com/developerpistachio/stockwallpapers/raw/master/redmi_5_plus.jpg",
+      "thumbnail": "https://github.com/developerpistachio/stockthumbs/raw/master/redmi_5_plus.jpg",
+      "collections": "Stock Wallpapers",
       "downloadable": true
     }
   ]
